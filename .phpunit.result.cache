@@ -1,1 +1,1 @@
-C:37:"PHPUnit\Runner\DefaultTestResultCache":90:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:1:{s:34:"tests\ExampleTest::testThatAllIsOK";d:0;}}}
+C:37:"PHPUnit\Runner\DefaultTestResultCache":325:{a:2:{s:7:"defects";a:1:{s:47:"tests\SingletonTest::testThatObjectIsSingletong";i:4;}s:5:"times";a:4:{s:34:"tests\ExampleTest::testThatAllIsOK";d:0;s:47:"tests\SingletonTest::testThatObjectIsSingletong";d:0.001;s:46:"tests\SingletonTest::testThatObjectIsSingleton";d:0.001;s:39:"tests\SingletonTest::testThatConfigIsOK";d:0;}}}

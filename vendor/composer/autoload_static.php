@@ -29,15 +29,12 @@ class ComposerStaticInitaff5e3cad7e338d270f156f109b5fa16
         array (
             'Prophecy\\' => 9,
             'PhpParser\\' => 10,
+            'Patterns\\' => 9,
         ),
         'D' => 
         array (
             'Doctrine\\Instantiator\\' => 22,
             'DeepCopy\\' => 9,
-        ),
-        'A' => 
-        array (
-            'App\\' => 4,
         ),
     );
 
@@ -64,6 +61,10 @@ class ComposerStaticInitaff5e3cad7e338d270f156f109b5fa16
         array (
             0 => __DIR__ . '/..' . '/nikic/php-parser/lib/PhpParser',
         ),
+        'Patterns\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
+        ),
         'Doctrine\\Instantiator\\' => 
         array (
             0 => __DIR__ . '/..' . '/doctrine/instantiator/src/Doctrine/Instantiator',
@@ -71,10 +72,6 @@ class ComposerStaticInitaff5e3cad7e338d270f156f109b5fa16
         'DeepCopy\\' => 
         array (
             0 => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy',
-        ),
-        'App\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/src',
         ),
     );
 
