@@ -4,7 +4,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Patterns\\": "src/"
+            "Patterns\\": "src/",
+            "App\\Exceptions\\": "Exceptions/"
         }
     }
 }
